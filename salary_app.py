@@ -406,7 +406,6 @@ CMD ['salary_app.py']
 deploy_streanlit_sharing ='''
 1- pip install pipreqs
 2- have requiremnts.txt (pipreqs C:\Users\rfjca\OneDrive\Escritorio\python\scripts\ml_apps\projects\salary)
-
 streamlit shared app:
 https://share.streamlit.io/rfjc21/first_streamlit_app/main/salary_app.py
 
